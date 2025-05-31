@@ -1,0 +1,13 @@
+/* styles.css for css methods */
+
+div {
+    /* Color */
+    background-color: red;
+    color: white;
+
+    /* Typography */
+    font-size: 22px; 
+    font-weight: bold;
+    text-align: center;
+
+}
