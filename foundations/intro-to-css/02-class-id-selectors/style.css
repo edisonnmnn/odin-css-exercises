@@ -1,0 +1,23 @@
+/* styles.css for class id selectors */
+
+.odd-element {
+    /* Color */
+    background-color: #f689c3;
+    /* Typography */
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+
+}
+
+.font-size-24 {
+    font-size: 24px;
+}
+
+#element-two {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#element-four {
+    background-color: hsl(125, 42%, 55%);
+    font-weight: bold;
+}
